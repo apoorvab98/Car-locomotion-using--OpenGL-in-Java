@@ -1,1 +1,4 @@
 # Car-locomotion-using-OpenGL-in-Java
+Program to create a 2D car and locomote it from one side of window to another side.The application is created using OpenGl graphics avaliable in Java.
+Java Open Graphic Library (JOGL) is a wrapper library which allows to use OpenGL with Java programing language. Thus, programmers can easily embed computer graphics in Java code with the help of JOGL.
+JOGL is an open source library that access the complete APIs of OpenGL. Hence, it inherits all the features of OpenGL. JOGL is capable to perform on any type of operating system such as Window, Linux and Mac without any lacking.OpenGL is a platform independent application programming interface (API) used to draw two-dimensional and three-dimensional graphics applications. Its main focus is to build hardware based objects instead of software.
